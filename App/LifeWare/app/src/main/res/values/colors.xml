@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--5EC432-->
+    <color name="colorPrimary">#48E826</color>
+    <color name="colorPrimaryDark">#62C72D</color>
+    <color name="colorAccent">#2FE1FC</color>
+    <color name="lifeWareGreen">#48E826</color>
+    <color name="whiteText">#ffffff</color>
+    <color name="black_1">#2e2e2e</color>
+    <color name="black_2">#595959</color>
+    <color name="black_3">#5c5c5c</color>
+    <color name="white_1">#979797</color>
+
+</resources>
